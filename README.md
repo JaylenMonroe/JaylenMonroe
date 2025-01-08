@@ -6,7 +6,7 @@
 * Building a website for my NSBE Chapter to help with our online presence.
 
 # ⚡ Fun fact:
-When I'm not coding, in class, doing work, or helping with my organizations, you can catch me at the golf course working on my game.
+* When I'm not coding, in class, doing work, or helping with my organizations, you can catch me at the golf course working on my game.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaylenmonroe/)
