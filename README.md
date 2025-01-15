@@ -1,5 +1,5 @@
 # 💫 About Me:
-* I am a third-year Computer Engineering student at Georgia Southern University, passionate about exploring the realms of coding, website development, and building things people can enjoy.
+* I am a third-year Software Engineering student at Georgia Southern University, passionate about exploring the realms of coding, website development, and building things people can enjoy.
 
 # 🚀 What I'm Up To:
 * Currently working on my front-end development skills on [FreeCodeCamp](https://www.freecodecamp.org/).
